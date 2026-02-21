@@ -47,7 +47,20 @@ From source:
 
 ## Screenshots
 
-*Add screenshots showing the GPU graph in action*
+### GPU Graph Plugin in Action
+![GPU Graph Plugin](GPU%20graph.png)
+
+*Real-time GPU utilization graph showing historical usage data for AMD GPUs.*
+
+### Configuration Dialog
+![GPU Graph Configuration](Screenshot_2026-02-21_14-36-39.png)
+
+*Plugin configuration dialog allowing users to enable/disable individual GPUs and customize colors.*
+
+### Panel Integration
+![GPU Graph in Panel](Screenshot_2026-02-21_15-04-53.png)
+
+*Compact GPU graph integrated into the XFCE panel with tooltip showing current usage.*
 
 ## License
 
