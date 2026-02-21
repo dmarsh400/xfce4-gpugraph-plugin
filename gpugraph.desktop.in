@@ -1,0 +1,14 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=GPU Graph
+Name[en]=GPU Graph
+Comment=GPU usage graph
+Comment[en]=GPU usage graph
+Icon=org.xfce.panel.cpugraph
+X-XFCE-Module=gpugraph
+X-XFCE-Unique=FALSE
+X-XFCE-API=2.0
+X-XfcePanelPluginCategories=Monitor
+X-XfcePanelPluginWebsite=https://docs.xfce.org/panel-plugins/xfce4-gpugraph-plugin/start
+X-XfcePanelPluginIcon=org.xfce.panel.cpugraph
