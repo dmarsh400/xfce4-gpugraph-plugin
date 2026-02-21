@@ -55,4 +55,4 @@ GPL-2.0-or-later
 
 ## Development
 
-This is a standalone GPU monitoring plugin. For integrated system monitoring (CPU + Memory + Network + GPU), see [xfce4-systemload-plugin](https://github.com/username/xfce4-systemload-plugin).
+This is a standalone GPU monitoring plugin. For integrated system monitoring (CPU + Memory + Network + GPU), see [xfce4-systemload-plugin-gpu](https://github.com/moderateb/xfce4-systemload-plugin-gpu).
